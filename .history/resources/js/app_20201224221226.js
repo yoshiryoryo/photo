@@ -6,7 +6,7 @@ import App from './App.vue'
 
 import store from './store'
 
-import './bootstrap'
+import '../js'
 
 new Vue({
   el: '#app',

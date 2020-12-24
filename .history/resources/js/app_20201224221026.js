@@ -6,8 +6,6 @@ import App from './App.vue'
 
 import store from './store'
 
-import './bootstrap'
-
 new Vue({
   el: '#app',
   router, // ルーティングの定義を読み込む
